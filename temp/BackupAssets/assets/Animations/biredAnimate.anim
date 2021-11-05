@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "biredAnimate",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.42857142857142855,
+  "sample": 7,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "34d8be4c-6716-4af8-9c60-95856f6f7c3d"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "83c68e45-1a42-44e1-a704-807ea8ea8b44"
+            }
+          },
+          {
+            "frame": 0.2857142857142857,
+            "value": {
+              "__uuid__": "4d69c0e6-b39f-488c-9917-828e8c9780fe"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            -20,
+            0
+          ]
+        },
+        {
+          "frame": 0.14285714285714285,
+          "value": [
+            0,
+            -10,
+            0
+          ]
+        },
+        {
+          "frame": 0.2857142857142857,
+          "value": [
+            0,
+            -20,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

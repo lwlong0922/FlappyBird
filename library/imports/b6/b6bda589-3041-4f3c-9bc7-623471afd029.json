@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "flappy_packer.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "base": {
+      "__uuid__": "6457be6a-f4ba-4d02-9a43-2d3cef04391e"
+    },
+    "base1": {
+      "__uuid__": "afc90737-2ecc-42c5-b480-0bffc784e5a2"
+    },
+    "base2": {
+      "__uuid__": "b7d873fc-2c98-44ba-821d-0f3e1762f9ce"
+    },
+    "bird1": {
+      "__uuid__": "34d8be4c-6716-4af8-9c60-95856f6f7c3d"
+    },
+    "bird2": {
+      "__uuid__": "83c68e45-1a42-44e1-a704-807ea8ea8b44"
+    },
+    "bird3": {
+      "__uuid__": "4d69c0e6-b39f-488c-9917-828e8c9780fe"
+    },
+    "click": {
+      "__uuid__": "1de7a2c9-6884-4885-800b-584ec58a211b"
+    },
+    "flappybird": {
+      "__uuid__": "d1d6f0cc-d40f-4cf0-8bbe-20f90fee3ca5"
+    },
+    "gameover": {
+      "__uuid__": "f5f692e2-ff7e-4374-8bc7-c0d8b4566005"
+    },
+    "getready": {
+      "__uuid__": "8e2978bd-01d7-4620-930d-28f04f746707"
+    },
+    "grade": {
+      "__uuid__": "160640bd-d631-4b09-9ba4-40269652c736"
+    },
+    "gray": {
+      "__uuid__": "d174ab67-e40a-4be6-b0b4-0831ad39256c"
+    },
+    "holdback1": {
+      "__uuid__": "d6f6bdb2-e743-43a8-9db0-7ed448c00910"
+    },
+    "holdback2": {
+      "__uuid__": "aa029a32-c68f-41de-8df6-5faa27bf2cc2"
+    },
+    "holdback3": {
+      "__uuid__": "70ca26d8-cd6b-4d85-84e8-610462144c9b"
+    },
+    "menu": {
+      "__uuid__": "1e493aae-5044-4db3-8879-a240c1de58a4"
+    },
+    "new": {
+      "__uuid__": "70368d34-4b12-4b51-8583-a127802effdb"
+    },
+    "number": {
+      "__uuid__": "e0df5203-7cc9-47fb-b35c-6706918e88c3"
+    },
+    "ok": {
+      "__uuid__": "53b69b11-3440-4017-a660-a33c34bd4050"
+    },
+    "rate": {
+      "__uuid__": "0c4d48d4-99b1-4557-b084-2a03a82640dd"
+    },
+    "share": {
+      "__uuid__": "041a83b5-a4fa-4820-b056-9af96342633d"
+    },
+    "start": {
+      "__uuid__": "aac108db-a4f3-46ce-9b08-96190435653d"
+    },
+    "start1": {
+      "__uuid__": "523c517f-1da0-4d53-b413-81ede34505bc"
+    },
+    "yellow": {
+      "__uuid__": "3cc89ee1-c615-425f-a82d-c0d03c858752"
+    }
+  }
+}
